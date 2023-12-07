@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{436E8653-DA57-40DC-9AAE-9B305A6E0D77}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Bank__Task PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankAccount.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="IBanking.cs" />
+      <File FileName="CheckingBankAccount.cs" />
+      <File FileName="BankAccount.cs" Line="5" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bank_Task" expanded="True">
+            <Node name="Bank_Task" expanded="True">
+              <Node name="BankAccount.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
